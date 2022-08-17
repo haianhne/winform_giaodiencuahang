@@ -1,0 +1,16 @@
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\bin\Debug\netcoreapp3.1\CuaHanghaianhPC.exe
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\bin\Debug\netcoreapp3.1\CuaHanghaianhPC.deps.json
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\bin\Debug\netcoreapp3.1\CuaHanghaianhPC.runtimeconfig.json
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\bin\Debug\netcoreapp3.1\CuaHanghaianhPC.runtimeconfig.dev.json
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\bin\Debug\netcoreapp3.1\CuaHanghaianhPC.dll
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\bin\Debug\netcoreapp3.1\CuaHanghaianhPC.pdb
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.csproj.AssemblyReference.cache
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.FormhaianhPC.resources
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.Properties.Resources.resources
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.csproj.GenerateResource.cache
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.AssemblyInfoInputs.cache
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.AssemblyInfo.cs
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.csproj.CoreCompileInputs.cache
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.dll
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.pdb
+D:\DH19-IT03\PhanTichThietKeHeThong\DoAn\CuaHanghaianhPC\CuaHanghaianhPC\obj\Debug\netcoreapp3.1\CuaHanghaianhPC.genruntimeconfig.cache
